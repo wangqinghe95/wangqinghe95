@@ -10,6 +10,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Learning plan
+#20210908
++ Leetcode-剑指offer
++ Blog-web(vue)-server(C++)
++ Effective C++ && 深入理解计算机系统 （第一遍）
++ TOEFL-reading-listening
+
+#20210503
 + HTTP（C++） Code（20210513-20210520）
 + 剑指offer （20210523-）
   + leetcode（前300道）
