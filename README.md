@@ -10,13 +10,52 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Learning plan
-#20210908
+# 20220116
+## 2022.1
+1. Code-剑指offer
+2. papaer
+  + 英文摘要
+  + Debug Hacks 第一遍
+  + 寻找汇编语言相关的书籍
+3. ToEFL-Reading && words
+4. C++视频（侯捷）
+
+## 总体需要完成的任务
+1. paper-Program Debug Practice
+  + 论文摘要-abstract
+  + 查阅资料
+    + Debug Hacks
+    + 计算机操作系统知识
+    + 汇编语言
+2. code
+  + 剑指Offer
+  + 华为机试题库
+
+3. Program
+  + 三十天编写服务器C++
+  + tinySTL
+  
+4. ToEFL
+  + Reading
+  + Writing
+  + words
+ 
+5. 考研
+  + 高数视频（B站）
+  + 专业课
+
+6. Books
+  + C语言与缺陷
+  + Effective C++
+ 
+
+# 20210908
 + Leetcode-剑指offer
 + Blog-web(vue)-server(C++)
 + Effective C++ && 深入理解计算机系统 （第一遍）
 + TOEFL-reading-listening
 
-#20210503
+# 20210503
 + HTTP（C++） Code（20210513-20210520）
 + 剑指offer （20210523-）
   + leetcode（前300道）
