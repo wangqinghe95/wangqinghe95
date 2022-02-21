@@ -10,6 +10,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Learning plan
+
+# 20220221
+1. 侯捷三部曲视频暂时算是结束，后序根据相关书籍继续巩固C++语言的知识点
+2. 深入理解操作系统 && 写论文
+3. Toefl 阅读和听力开始学习，3，4，5月份以托福为主
+4. 剑指offer第二版给结束掉以后，等考研专业课开始以后再重新刷PAT就当学习算法。
+5. 考研数学开始学习，优先级暂时低于 托福学习。
+
 # 20220116
 ## 2022.1
 1. Code-剑指offer
