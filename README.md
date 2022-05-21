@@ -11,6 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 Learning plan
 
+# 20220521
++ 考研数学
++ 托福听力练习
++ Blog 项目-服务端的json构造和前端通信
+
 # 20220221
 1. 侯捷三部曲视频暂时算是结束，后序根据相关书籍继续巩固C++语言的知识点
 2. 深入理解操作系统 && 写论文
