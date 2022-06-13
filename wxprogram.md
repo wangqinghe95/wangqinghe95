@@ -38,3 +38,14 @@
 8. 本地测试：
     + 待定，demo完成。
 
+// json data
+// /api/pushData
+{
+    "sex":1, // male 2--female
+    "age":19,
+    "drunk":true,
+    "drunkNum": 2,  // 2
+}
+
+// /api/pictureFormat
+
