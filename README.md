@@ -14,12 +14,22 @@ You can click the Preview link to take a look at your changes.
   + Done
 2. Git
   + None
+3. Makefile/CMake
+  + None
+
 ## Book
 1. Linux Shell
   + Doing
+2. Design Mode C++
+  + Doing
+3. C++ Primer 5th
+  + None
+
 ## Project
 1. WebServer
   + Doing
+2. MyTinySTL
+  + Done
 
 ## Exam
 1. ToEFL
