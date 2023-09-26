@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Tool
-1. Program Debug of GDB(C++)
+1. (Program Debug of GDB)[ProgramDebug/readme.md]
   + Done
 2. Git
   + None
