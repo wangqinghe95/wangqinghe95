@@ -10,32 +10,22 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Tool
-1. (Program Debug of GDB)[ProgramDebug/readme.md]
-  + Done
+1. [Program Debug of GDB](https://github.com/wangqinghe95/Program-Debug)
 2. Git
-  + None
 3. Makefile/CMake
-  + None
 
 ## Book
-1. Linux Shell
-  + Doing
-2. Design Mode C++
-  + Doing
-3. C++ Primer 5th
-  + None
+1. [Linux Shell](https://github.com/wangqinghe95/Linux_Shell)
+2. [Design Mode C++](https://github.com/wangqinghe95/Design-Mode)
+3. [C++ Primer 6th](https://github.com/wangqinghe95/CPlusPlus-Primer-Plus)
 
 ## Project
 1. WebServer
-  + Doing
 2. MyTinySTL
-  + Done
 
 ## Exam
-1. ToEFL
-  + Doing
+1. [ToEFL](https://github.com/wangqinghe95/ToEFL)
 2. PAT
-  + None
 
 ## Program
 1. Leetcode
