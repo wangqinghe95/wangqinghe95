@@ -17,19 +17,20 @@ Github profiles
 https://zhuanlan.zhihu.com/p/452561674
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangqinghe95)](https://github.com/wangqinghe95/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangqinghe95)](https://github.com/wangqinghe95/github-readme-stats) -->
 <!-- ![wangqinghe95's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangqinghe95&show_icons=true&theme=tokyonight) -->
 
 ## Books
 | File | Author | Status | Link |
 | --- | --- | --- | --- | 
 | Linux Shell 核心编程 | 丁明一 | Done | [Linux Shell Notes](https://github.com/wangqinghe95/Linux_Shell) |
-| C++ Primer Plus (6th Edition) |  Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo | Doing | [C++ Primer Plus Notes](https://github.com/wangqinghe95/CPlusPlus-Primer-Plus) |
+| C++ Primer Plus (6th Edition) |  Stephen Prata | Doing | [C++ Primer Plus Notes](https://github.com/wangqinghe95/CPlusPlus-Primer-Plus) |
 | 大话设计模式 | 程杰 | Doing | [Design Mode C++](https://github.com/wangqinghe95/Design-Mode) |
 
 ## Program
 | Name | Status | Link | Remarks |
 | --- | --- | --- | --- | 
+| C++ 知识清单 | Done | [Knowledge-Of-CPulsPlus](./https://github.com/wangqinghe95/Knowledge-Of-CPlusPlus) | version 1.0 Done |
 | ThreadPool | Doing | [ThreadPool with C++11](https://github.com/wangqinghe95/ThreadPool) |
 | WebServer | Doing | [WebServer](https://github.com/wangqinghe95/Blog-Server) |
 | HTTPClient | Doing | [A Client for Http](https://github.com/wangqinghe95/HTTPClient) |
@@ -47,7 +48,7 @@ https://zhuanlan.zhihu.com/p/452561674
 | Name | Status | Link | Remarks |
 | --- | --- | --- | --- | 
 | GDB | Done | [Program Debug of GDB](https://github.com/wangqinghe95/Program-Debug) |
-| Git | Done |
+| Git | TODO |
 | Makefile/CMake | TODO |
 
 ## Exam
