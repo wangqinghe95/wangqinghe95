@@ -23,24 +23,25 @@ https://zhuanlan.zhihu.com/p/452561674
 ## Books
 | File | Author | Status | Link |
 | --- | --- | --- | --- | 
-| Linux Shell 核心编程 | 丁明一 | Done | [Linux Shell Notes](https://github.com/wangqinghe95/Linux_Shell) |
 | C++ Primer Plus (6th Edition) |  Stephen Prata | Doing | [C++ Primer Plus Notes](https://github.com/wangqinghe95/CPlusPlus-Primer-Plus) |
+| 深入理解 C++11 | IBM XL 编译器中国开发团队| Doing | 
 | 大话设计模式 | 程杰 | Doing | [Design Mode C++](https://github.com/wangqinghe95/Design-Mode) |
+| Linux Shell 核心编程 | 丁明一 | Done | [Linux Shell Notes](https://github.com/wangqinghe95/Linux_Shell) |
 
 ## Program
 | Name | Status | Link | Remarks |
 | --- | --- | --- | --- | 
 | HTTPClient | Doing | [A Client for Http](https://github.com/wangqinghe95/HTTPClient) |
 | WebServer | Doing | [WebServer](https://github.com/wangqinghe95/Blog-Server) |
+| MyTinySTL | TODO |  |
 | C++ 知识清单 | Done | [Knowledge-Of-CPulsPlus](./https://github.com/wangqinghe95/Knowledge-Of-CPlusPlus) | version 1.0 Done |
 | ThreadPool | Done | [ThreadPool with C++11](https://github.com/wangqinghe95/ThreadPool) | version of c and c++ |
-| MyTinySTL | TODO |  |
 
 ## Programming Code
 | Name | Status | Link | Remarks |
 | --- | --- | --- | --- | 
-| 从零开始刷 LeetCode | Done | [从零开始刷 LeetCode ](https://github.com/wangqinghe95/Code-Leetcode) |
 | PAT | Doing | [PAT](https://github.com/wangqinghe95/PAT-Code) |
+| 从零开始刷 LeetCode | Done | [从零开始刷 LeetCode ](https://github.com/wangqinghe95/Code-Leetcode) |
 | 剑指 Offer | Doing(Expired) | [剑指 Offer](https://github.com/wangqinghe95/MSOffer) | Leetcode 已经删除该主题 |
 
 
