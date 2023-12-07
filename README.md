@@ -50,8 +50,8 @@ https://zhuanlan.zhihu.com/p/452561674
 ## Tool
 | Name           | Status | Link                                                                  | Remarks |
 | -------------- | ------ | --------------------------------------------------------------------- | ------- |
+| Git            | Doing  | [Git_Pro](https://github.com/wangqinghe95/Git_Pro)                    |
 | GDB            | Done   | [Program Debug of GDB](https://github.com/wangqinghe95/Program-Debug) |
-| Git            | Todo   |
 | Makefile/CMake | Todo   |
 
 ## Exam
