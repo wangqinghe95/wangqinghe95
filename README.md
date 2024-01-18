@@ -50,11 +50,11 @@ https://zhuanlan.zhihu.com/p/452561674
 ## Tool
 | Name           | Status | Link                                                                  | Remarks |
 | -------------- | ------ | --------------------------------------------------------------------- | ------- |
-| Git            | Doing  | [Git_Pro](https://github.com/wangqinghe95/Git_Pro)                    |
-| GDB            | Done   | [Program Debug of GDB](https://github.com/wangqinghe95/Program-Debug) |
 | Makefile/CMake | Todo   |
+| GDB            | Done   | [Program Debug of GDB](https://github.com/wangqinghe95/Program-Debug) |
+| Git            | Done  | [Git_Pro](https://github.com/wangqinghe95/Git_Pro)                    | Need to summarize |
 
 ## Exam
 | Name  | Status | Link                                           | Remarks |
 | ----- | ------ | ---------------------------------------------- | ------- |
-| ToEFL | Doing  | [ToEFL](https://github.com/wangqinghe95/ToEFL) |
+| ToEFL | Doing  | [ToEFL](https://github.com/wangqinghe95/ToEFL) | |
