@@ -24,7 +24,7 @@ https://zhuanlan.zhihu.com/p/452561674
 | File                          | Author                    | Status | Link                                                                           |
 | ----------------------------- | ------------------------- | ------ | ------------------------------------------------------------------------------ |
 | C++ Primer Plus (6th Edition) | Stephen Prata             | Doing  | [C++ Primer Plus Notes](https://github.com/wangqinghe95/CPlusPlus-Primer-Plus) |
-| 深入理解 C++11                | IBM XL 编译器中国开发团队 | Doing  |
+| 深入理解 C++11                | IBM XL 编译器中国开发团队 | Doing  | [Understanding C++11](https://github.com/wangqinghe95/CPlusPlus11)             |
 | 大话设计模式                  | 程杰                      | Doing  | [Design Mode C++](https://github.com/wangqinghe95/Design-Mode)                 |
 | Linux Shell 核心编程          | 丁明一                    | Done   | [Linux Shell Notes](https://github.com/wangqinghe95/Linux_Shell)               |
 
@@ -48,13 +48,13 @@ https://zhuanlan.zhihu.com/p/452561674
 
 
 ## Tool
-| Name           | Status | Link                                                                  | Remarks |
-| -------------- | ------ | --------------------------------------------------------------------- | ------- |
+| Name           | Status | Link                                                                  | Remarks           |
+| -------------- | ------ | --------------------------------------------------------------------- | ----------------- |
 | Makefile/CMake | Todo   |
 | GDB            | Done   | [Program Debug of GDB](https://github.com/wangqinghe95/Program-Debug) |
-| Git            | Done  | [Git_Pro](https://github.com/wangqinghe95/Git_Pro)                    | Need to summarize |
+| Git            | Done   | [Git_Pro](https://github.com/wangqinghe95/Git_Pro)                    | Need to summarize |
 
 ## Exam
 | Name  | Status | Link                                           | Remarks |
 | ----- | ------ | ---------------------------------------------- | ------- |
-| ToEFL | Doing  | [ToEFL](https://github.com/wangqinghe95/ToEFL) | |
+| ToEFL | Doing  | [ToEFL](https://github.com/wangqinghe95/ToEFL) |         |
