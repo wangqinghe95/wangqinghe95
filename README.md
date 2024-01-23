@@ -50,7 +50,7 @@ https://zhuanlan.zhihu.com/p/452561674
 ## Tool
 | Name           | Status | Link                                                                  | Remarks           |
 | -------------- | ------ | --------------------------------------------------------------------- | ----------------- |
-| Makefile/CMake | Todo   |
+| Makefile/CMake | Doing  | [Makefile Learning](https://github.com/wangqinghe95/Makefile)         |
 | GDB            | Done   | [Program Debug of GDB](https://github.com/wangqinghe95/Program-Debug) |
 | Git            | Done   | [Git_Pro](https://github.com/wangqinghe95/Git_Pro)                    | Need to summarize |
 
