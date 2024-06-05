@@ -3,7 +3,7 @@
 - 👀 I’m interested in C/C++
 - 🌱 I’m currently learning ToEFL
 - 💞️ I’m looking to collaborate on C/C++ 
-- 📫 you can send email to 675972584@qq.com
+- 📫 you can send email to 675972580@qq.com
 
 <!---
 wangqinghe95/wangqinghe95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ https://zhuanlan.zhihu.com/p/452561674
 | File                          | Author                    | Status | Link                                                                           |
 | ----------------------------- | ------------------------- | ------ | ------------------------------------------------------------------------------ |
 | C++ Primer Plus (6th Edition) | Stephen Prata             | Doing  | [C++ Primer Plus Notes](https://github.com/wangqinghe95/CPlusPlus-Primer-Plus) |
-| 深入理解 C++11                | IBM XL 编译器中国开发团队 | Doing  | [Understanding C++11](https://github.com/wangqinghe95/CPlusPlus11)             |
+| 深入理解 C++11                | IBM XL 编译器中国开发团队 | Done  | [Understanding C++11](https://github.com/wangqinghe95/CPlusPlus11)             |
 | 大话设计模式                  | 程杰                      | Doing  | [Design Mode C++](https://github.com/wangqinghe95/Design-Mode)                 |
 | Linux Shell 核心编程          | 丁明一                    | Done   | [Linux Shell Notes](https://github.com/wangqinghe95/Linux_Shell)               |
 
