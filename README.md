@@ -58,4 +58,4 @@ https://zhuanlan.zhihu.com/p/452561674
 | Name               | Status | Link                                           | Remarks |
 |--------------------|--------|------------------------------------------------|---------|
 | ToEFL              | Doing  | [ToEFL](https://github.com/wangqinghe95/ToEFL) |         |
-| 计算机软件资格考试 | Todo   |                                                |         |
+| 计算机软件资格考试 | Done   |                                                |   59/58 passed!      |
