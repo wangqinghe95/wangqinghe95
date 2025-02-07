@@ -28,7 +28,8 @@
 | 计算机科学速成课 | Bilibili | Done | 计算机导学课
 | CS 61A: Structure and Interpretation of Computer Programs | https://cs61a.org/ | TODO |
 | CS50: Introduction to Computer Science  | ttps://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0 | TODO |
-| mit-6.001 | ttps://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/ | TODO |
+
+### MIT OS 6.18.10 2023
 
 ## Project
 
